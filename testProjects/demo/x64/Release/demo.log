@@ -1,0 +1,13 @@
+﻿  FileHandle.cpp
+  measure.cpp
+  superPCA.cpp
+  demoMain.cpp
+C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\include\BDH.h(79): warning C4267: 'return': 'size_t' から 'BDH<data_t>::index_t' に変換しました。データが失われているかもしれません。
+  C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\include\BDH.h(78): note: クラス テンプレート のメンバー関数 'BDH<data_t>::index_t BDH<data_t>::get_nDdataPoints(void) const' のコンパイル中
+  demoMain.cpp(108): note: コンパイル対象の関数 テンプレート インスタンス化 'BDH<data_t>::index_t BDH<data_t>::get_nDdataPoints(void) const' のリファレンスを確認してください
+  demoMain.cpp(89): note: コンパイル対象の クラス テンプレート インスタンス化 'BDH<data_t>' のリファレンスを確認してください
+  コード生成しています。
+  All 617 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  demo.vcxproj -> C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\exe\x64\demo_Release.exe
+  demo.vcxproj -> C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\exe\x64\demo_Release.pdb (Full PDB)

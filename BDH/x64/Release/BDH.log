@@ -1,0 +1,13 @@
+﻿  BDH.cpp
+C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\include\BDH.h(79): warning C4267: 'return': 'size_t' から 'BDH<double>::index_t' に変換しました。データが失われているかもしれません。
+  C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\include\BDH.h(78): note: クラス テンプレート のメンバー関数 'BDH<double>::index_t BDH<double>::get_nDdataPoints(void) const' のコンパイル中
+  src\BDH.cpp(904): note: コンパイル対象の クラス テンプレート インスタンス化 'BDH<double>' のリファレンスを確認してください
+C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\include\BDH.h(79): warning C4267: 'return': 'size_t' から 'BDH<float>::index_t' に変換しました。データが失われているかもしれません。
+  C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\include\BDH.h(78): note: クラス テンプレート のメンバー関数 'BDH<float>::index_t BDH<float>::get_nDdataPoints(void) const' のコンパイル中
+  src\BDH.cpp(903): note: コンパイル対象の クラス テンプレート インスタンス化 'BDH<float>' のリファレンスを確認してください
+C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\include\BDH.h(79): warning C4267: 'return': 'size_t' から 'BDH<unsigned char>::index_t' に変換しました。データが失われているかもしれません。
+  C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\include\BDH.h(78): note: クラス テンプレート のメンバー関数 'BDH<unsigned char>::index_t BDH<unsigned char>::get_nDdataPoints(void) const' のコンパイル中
+  src\BDH.cpp(902): note: コンパイル対象の クラス テンプレート インスタンス化 'BDH<unsigned char>' のリファレンスを確認してください
+  BDHtraining.cpp
+  Subspace.cpp
+  BDH.vcxproj -> C:\Users\masa\Dropbox\masa-sato\bdh_iccv_2013\build\lib\BDH_x64_Release.lib

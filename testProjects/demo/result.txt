@@ -1,0 +1,2002 @@
+average query time : 0.04 ms
+memory usage : 0.000154495 MB
+query index : 0	NNC : 10
+726	114285	
+query index : 1	NNC : 25
+4041	68501	
+query index : 2	NNC : 17
+8299	81135	
+query index : 3	NNC : 52
+5596	19970	
+query index : 4	NNC : 13
+6129	145962	
+query index : 5	NNC : 43
+4087	24431	
+query index : 6	NNC : 17
+3747	34857	
+query index : 7	NNC : 12
+774	130181	
+query index : 8	NNC : 27
+7429	52131	
+query index : 9	NNC : 27
+2392	50438	
+query index : 10	NNC : 10
+9339	121719	
+query index : 11	NNC : 12
+2741	105135	
+query index : 12	NNC : 13
+5997	116330	
+query index : 13	NNC : 19
+5643	102372	
+query index : 14	NNC : 75
+7452	46074	
+query index : 15	NNC : 10
+3873	146293	
+query index : 16	NNC : 30
+9555	66491	
+query index : 17	NNC : 11
+6882	82815	
+query index : 18	NNC : 15
+1794	91307	
+query index : 19	NNC : 10
+2857	100061	
+query index : 20	NNC : 11
+8272	130999	
+query index : 21	NNC : 17
+5543	102738	
+query index : 22	NNC : 10
+9203	92148	
+query index : 23	NNC : 17
+2248	152833	
+query index : 24	NNC : 22
+1282	88522	
+query index : 25	NNC : 14
+3579	102786	
+query index : 26	NNC : 14
+2236	67807	
+query index : 27	NNC : 10
+5196	112146	
+query index : 28	NNC : 10
+9238	102854	
+query index : 29	NNC : 10
+3158	121050	
+query index : 30	NNC : 16
+5896	98692	
+query index : 31	NNC : 30
+5462	95032	
+query index : 32	NNC : 14
+4359	80575	
+query index : 33	NNC : 10
+96	112832	
+query index : 34	NNC : 10
+4184	92874	
+query index : 35	NNC : 13
+1193	106323	
+query index : 36	NNC : 19
+519	77398	
+query index : 37	NNC : 29
+5625	71854	
+query index : 38	NNC : 11
+8694	65723	
+query index : 39	NNC : 11
+9358	97308	
+query index : 40	NNC : 20
+6287	44440	
+query index : 41	NNC : 21
+240	49635	
+query index : 42	NNC : 12
+6059	127809	
+query index : 43	NNC : 40
+5349	67774	
+query index : 44	NNC : 12
+9190	45700	
+query index : 45	NNC : 14
+6571	52174	
+query index : 46	NNC : 10
+3609	85636	
+query index : 47	NNC : 12
+8299	74628	
+query index : 48	NNC : 17
+6354	51103	
+query index : 49	NNC : 11
+4779	133301	
+query index : 50	NNC : 43
+4086	4976	
+query index : 51	NNC : 25
+6777	50042	
+query index : 52	NNC : 13
+8086	152558	
+query index : 53	NNC : 35
+2083	36063	
+query index : 54	NNC : 10
+8088	49771	
+query index : 55	NNC : 10
+777	68996	
+query index : 56	NNC : 12
+8419	76929	
+query index : 57	NNC : 14
+3951	120133	
+query index : 58	NNC : 16
+5273	119722	
+query index : 59	NNC : 13
+9373	109732	
+query index : 60	NNC : 13
+5905	90336	
+query index : 61	NNC : 18
+4866	107316	
+query index : 62	NNC : 28
+9868	47570	
+query index : 63	NNC : 14
+8315	66680	
+query index : 64	NNC : 20
+2401	58667	
+query index : 65	NNC : 14
+2557	123723	
+query index : 66	NNC : 13
+1392	82636	
+query index : 67	NNC : 11
+8315	31162	
+query index : 68	NNC : 38
+5576	92487	
+query index : 69	NNC : 24
+8960	76290	
+query index : 70	NNC : 10
+7678	131626	
+query index : 71	NNC : 15
+9400	92166	
+query index : 72	NNC : 35
+5106	26993	
+query index : 73	NNC : 11
+480	79822	
+query index : 74	NNC : 18
+4632	57047	
+query index : 75	NNC : 21
+3784	76517	
+query index : 76	NNC : 12
+7092	99854	
+query index : 77	NNC : 10
+9475	61010	
+query index : 78	NNC : 19
+493	47965	
+query index : 79	NNC : 10
+6793	53081	
+query index : 80	NNC : 15
+8741	86688	
+query index : 81	NNC : 11
+9486	137552	
+query index : 82	NNC : 17
+423	93926	
+query index : 83	NNC : 14
+1952	97934	
+query index : 84	NNC : 11
+195	124431	
+query index : 85	NNC : 12
+427	83628	
+query index : 86	NNC : 13
+3060	25087	
+query index : 87	NNC : 13
+9089	127869	
+query index : 88	NNC : 21
+8825	101425	
+query index : 89	NNC : 13
+5174	128216	
+query index : 90	NNC : 11
+7302	57215	
+query index : 91	NNC : 23
+3935	21449	
+query index : 92	NNC : 10
+3610	93121	
+query index : 93	NNC : 13
+728	118577	
+query index : 94	NNC : 24
+9047	55418	
+query index : 95	NNC : 42
+325	60666	
+query index : 96	NNC : 62
+9755	58070	
+query index : 97	NNC : 15
+7406	51947	
+query index : 98	NNC : 12
+6430	98717	
+query index : 99	NNC : 22
+331	78030	
+query index : 100	NNC : 20
+5721	110508	
+query index : 101	NNC : 40
+7335	16133	
+query index : 102	NNC : 15
+7332	104365	
+query index : 103	NNC : 12
+9503	130844	
+query index : 104	NNC : 12
+3597	113344	
+query index : 105	NNC : 15
+5558	95418	
+query index : 106	NNC : 16
+8373	87352	
+query index : 107	NNC : 19
+9422	96202	
+query index : 108	NNC : 12
+3830	81944	
+query index : 109	NNC : 19
+5528	88956	
+query index : 110	NNC : 10
+7032	139576	
+query index : 111	NNC : 43
+7763	9326	
+query index : 112	NNC : 10
+121	94168	
+query index : 113	NNC : 10
+4002	71321	
+query index : 114	NNC : 22
+7616	54021	
+query index : 115	NNC : 14
+8686	65622	
+query index : 116	NNC : 12
+8307	53059	
+query index : 117	NNC : 11
+6067	104404	
+query index : 118	NNC : 12
+2011	113978	
+query index : 119	NNC : 17
+2450	96964	
+query index : 120	NNC : 11
+4870	119644	
+query index : 121	NNC : 11
+645	103097	
+query index : 122	NNC : 10
+7083	47910	
+query index : 123	NNC : 10
+2766	104416	
+query index : 124	NNC : 38
+6665	27903	
+query index : 125	NNC : 15
+7903	117391	
+query index : 126	NNC : 12
+1426	129198	
+query index : 127	NNC : 19
+1542	135391	
+query index : 128	NNC : 35
+205	66001	
+query index : 129	NNC : 10
+4505	126399	
+query index : 130	NNC : 43
+7322	22047	
+query index : 131	NNC : 19
+8033	61063	
+query index : 132	NNC : 17
+1908	122282	
+query index : 133	NNC : 12
+8322	39318	
+query index : 134	NNC : 12
+3203	123608	
+query index : 135	NNC : 16
+9446	112093	
+query index : 136	NNC : 15
+7355	71708	
+query index : 137	NNC : 11
+9170	152681	
+query index : 138	NNC : 10
+8526	136058	
+query index : 139	NNC : 12
+6495	89381	
+query index : 140	NNC : 21
+6625	9713	
+query index : 141	NNC : 31
+4248	113331	
+query index : 142	NNC : 87
+8788	41199	
+query index : 143	NNC : 10
+2260	107916	
+query index : 144	NNC : 17
+9462	105651	
+query index : 145	NNC : 11
+5635	107150	
+query index : 146	NNC : 15
+9878	116385	
+query index : 147	NNC : 16
+3610	108378	
+query index : 148	NNC : 16
+8495	107637	
+query index : 149	NNC : 11
+2790	71705	
+query index : 150	NNC : 21
+2779	83546	
+query index : 151	NNC : 19
+731	72579	
+query index : 152	NNC : 12
+8339	117240	
+query index : 153	NNC : 10
+6169	99401	
+query index : 154	NNC : 33
+7287	28992	
+query index : 155	NNC : 13
+2604	54327	
+query index : 156	NNC : 16
+7651	134306	
+query index : 157	NNC : 10
+3817	71561	
+query index : 158	NNC : 12
+2031	99257	
+query index : 159	NNC : 10
+6819	105527	
+query index : 160	NNC : 11
+4237	118384	
+query index : 161	NNC : 15
+6644	127302	
+query index : 162	NNC : 30
+2774	110212	
+query index : 163	NNC : 66
+4699	41997	
+query index : 164	NNC : 18
+9065	103126	
+query index : 165	NNC : 15
+8106	129079	
+query index : 166	NNC : 12
+3176	124085	
+query index : 167	NNC : 19
+2243	118567	
+query index : 168	NNC : 21
+4290	120651	
+query index : 169	NNC : 13
+9631	51992	
+query index : 170	NNC : 13
+1843	108274	
+query index : 171	NNC : 18
+8679	98937	
+query index : 172	NNC : 11
+4701	69190	
+query index : 173	NNC : 10
+2434	114529	
+query index : 174	NNC : 11
+9146	39535	
+query index : 175	NNC : 22
+8495	80256	
+query index : 176	NNC : 17
+3599	91330	
+query index : 177	NNC : 16
+6138	86613	
+query index : 178	NNC : 16
+3853	164697	
+query index : 179	NNC : 12
+8994	80063	
+query index : 180	NNC : 26
+5313	119928	
+query index : 181	NNC : 10
+1541	122669	
+query index : 182	NNC : 17
+7985	153260	
+query index : 183	NNC : 17
+8594	40537	
+query index : 184	NNC : 13
+7243	73056	
+query index : 185	NNC : 15
+7467	98809	
+query index : 186	NNC : 11
+8231	123177	
+query index : 187	NNC : 12
+4988	116518	
+query index : 188	NNC : 13
+9674	83531	
+query index : 189	NNC : 14
+3874	65102	
+query index : 190	NNC : 15
+9667	76960	
+query index : 191	NNC : 18
+9532	86584	
+query index : 192	NNC : 11
+4013	96451	
+query index : 193	NNC : 15
+9444	125461	
+query index : 194	NNC : 12
+3272	97366	
+query index : 195	NNC : 18
+597	105056	
+query index : 196	NNC : 12
+1473	96467	
+query index : 197	NNC : 11
+4678	117835	
+query index : 198	NNC : 10
+2620	89715	
+query index : 199	NNC : 10
+507	118239	
+query index : 200	NNC : 26
+8210	84947	
+query index : 201	NNC : 32
+3482	101688	
+query index : 202	NNC : 11
+3867	116098	
+query index : 203	NNC : 15
+8282	132362	
+query index : 204	NNC : 20
+3164	87754	
+query index : 205	NNC : 10
+6620	83853	
+query index : 206	NNC : 24
+9672	105935	
+query index : 207	NNC : 32
+8013	112612	
+query index : 208	NNC : 10
+7615	99495	
+query index : 209	NNC : 12
+6608	35801	
+query index : 210	NNC : 12
+6809	105349	
+query index : 211	NNC : 11
+6124	105613	
+query index : 212	NNC : 10
+1410	120729	
+query index : 213	NNC : 12
+1204	112457	
+query index : 214	NNC : 10
+2717	91079	
+query index : 215	NNC : 21
+3903	67820	
+query index : 216	NNC : 24
+4859	85650	
+query index : 217	NNC : 25
+9449	49440	
+query index : 218	NNC : 17
+7769	86232	
+query index : 219	NNC : 13
+165	133289	
+query index : 220	NNC : 18
+9873	89335	
+query index : 221	NNC : 11
+2200	133192	
+query index : 222	NNC : 17
+7796	123083	
+query index : 223	NNC : 14
+165	104262	
+query index : 224	NNC : 40
+3384	46043	
+query index : 225	NNC : 10
+7689	85990	
+query index : 226	NNC : 18
+8074	98970	
+query index : 227	NNC : 13
+8785	126705	
+query index : 228	NNC : 12
+2486	157379	
+query index : 229	NNC : 21
+1704	101584	
+query index : 230	NNC : 14
+2309	92147	
+query index : 231	NNC : 33
+7329	33637	
+query index : 232	NNC : 10
+3665	115961	
+query index : 233	NNC : 15
+1003	96241	
+query index : 234	NNC : 13
+3804	102714	
+query index : 235	NNC : 10
+8480	95518	
+query index : 236	NNC : 11
+3158	101049	
+query index : 237	NNC : 18
+7636	43806	
+query index : 238	NNC : 11
+918	73189	
+query index : 239	NNC : 32
+989	38888	
+query index : 240	NNC : 19
+2936	74634	
+query index : 241	NNC : 13
+3686	50994	
+query index : 242	NNC : 15
+7306	43087	
+query index : 243	NNC : 12
+9654	133161	
+query index : 244	NNC : 37
+9074	27304	
+query index : 245	NNC : 17
+8431	80966	
+query index : 246	NNC : 13
+1895	95151	
+query index : 247	NNC : 35
+5477	84508	
+query index : 248	NNC : 22
+1002	114656	
+query index : 249	NNC : 33
+7328	9595	
+query index : 250	NNC : 10
+9797	119427	
+query index : 251	NNC : 14
+7642	100907	
+query index : 252	NNC : 13
+1982	53673	
+query index : 253	NNC : 11
+6883	137949	
+query index : 254	NNC : 20
+5632	97822	
+query index : 255	NNC : 11
+9906	119992	
+query index : 256	NNC : 16
+9234	40170	
+query index : 257	NNC : 12
+177	84318	
+query index : 258	NNC : 11
+591	66186	
+query index : 259	NNC : 12
+2845	100328	
+query index : 260	NNC : 14
+267	81279	
+query index : 261	NNC : 10
+1006	124205	
+query index : 262	NNC : 14
+5532	96881	
+query index : 263	NNC : 19
+2895	42110	
+query index : 264	NNC : 11
+8826	123335	
+query index : 265	NNC : 17
+2496	29701	
+query index : 266	NNC : 13
+1540	136506	
+query index : 267	NNC : 12
+2001	65564	
+query index : 268	NNC : 15
+7665	81399	
+query index : 269	NNC : 18
+3016	73089	
+query index : 270	NNC : 17
+3957	30886	
+query index : 271	NNC : 10
+8665	77291	
+query index : 272	NNC : 12
+1112	97559	
+query index : 273	NNC : 10
+9674	114435	
+query index : 274	NNC : 23
+7085	72720	
+query index : 275	NNC : 20
+7366	84850	
+query index : 276	NNC : 13
+6206	67386	
+query index : 277	NNC : 15
+9877	65495	
+query index : 278	NNC : 13
+3298	50755	
+query index : 279	NNC : 52
+8025	79471	
+query index : 280	NNC : 11
+6390	146679	
+query index : 281	NNC : 11
+2417	73803	
+query index : 282	NNC : 58
+7173	48616	
+query index : 283	NNC : 12
+1284	113815	
+query index : 284	NNC : 10
+2099	121404	
+query index : 285	NNC : 10
+4481	120704	
+query index : 286	NNC : 10
+8108	108554	
+query index : 287	NNC : 10
+4064	192703	
+query index : 288	NNC : 26
+7538	68174	
+query index : 289	NNC : 14
+6351	70065	
+query index : 290	NNC : 14
+1461	122452	
+query index : 291	NNC : 12
+1357	132376	
+query index : 292	NNC : 11
+2111	81329	
+query index : 293	NNC : 34
+7503	19793	
+query index : 294	NNC : 10
+4943	133880	
+query index : 295	NNC : 13
+2602	115659	
+query index : 296	NNC : 10
+7407	55345	
+query index : 297	NNC : 11
+4210	87147	
+query index : 298	NNC : 21
+182	76313	
+query index : 299	NNC : 31
+5159	51529	
+query index : 300	NNC : 16
+7264	95553	
+query index : 301	NNC : 10
+5519	92258	
+query index : 302	NNC : 13
+1259	120578	
+query index : 303	NNC : 10
+3969	92694	
+query index : 304	NNC : 13
+3823	116238	
+query index : 305	NNC : 13
+8263	79795	
+query index : 306	NNC : 13
+923	121875	
+query index : 307	NNC : 14
+3460	84059	
+query index : 308	NNC : 10
+6758	84017	
+query index : 309	NNC : 12
+948	115730	
+query index : 310	NNC : 14
+1098	72167	
+query index : 311	NNC : 18
+7061	90046	
+query index : 312	NNC : 11
+8334	132696	
+query index : 313	NNC : 11
+2936	54755	
+query index : 314	NNC : 12
+8063	82592	
+query index : 315	NNC : 20
+9359	96821	
+query index : 316	NNC : 17
+59	127070	
+query index : 317	NNC : 14
+7357	47766	
+query index : 318	NNC : 11
+905	149096	
+query index : 319	NNC : 17
+1508	101028	
+query index : 320	NNC : 11
+5732	72679	
+query index : 321	NNC : 14
+7847	81213	
+query index : 322	NNC : 12
+2725	92151	
+query index : 323	NNC : 12
+5564	109609	
+query index : 324	NNC : 14
+175	75969	
+query index : 325	NNC : 13
+3926	116640	
+query index : 326	NNC : 21
+2319	68144	
+query index : 327	NNC : 12
+7602	52830	
+query index : 328	NNC : 52
+7613	62276	
+query index : 329	NNC : 25
+6016	75588	
+query index : 330	NNC : 14
+130	84395	
+query index : 331	NNC : 17
+2306	98024	
+query index : 332	NNC : 15
+1775	74465	
+query index : 333	NNC : 13
+9368	132038	
+query index : 334	NNC : 20
+7842	123623	
+query index : 335	NNC : 14
+9127	66517	
+query index : 336	NNC : 11
+2768	118970	
+query index : 337	NNC : 20
+8897	108703	
+query index : 338	NNC : 17
+801	137913	
+query index : 339	NNC : 11
+4460	94169	
+query index : 340	NNC : 28
+3159	45642	
+query index : 341	NNC : 22
+9028	54106	
+query index : 342	NNC : 14
+5876	129201	
+query index : 343	NNC : 15
+6802	66494	
+query index : 344	NNC : 11
+9748	89907	
+query index : 345	NNC : 12
+6581	95693	
+query index : 346	NNC : 19
+214	127696	
+query index : 347	NNC : 12
+9201	63664	
+query index : 348	NNC : 21
+5635	108002	
+query index : 349	NNC : 10
+3265	84825	
+query index : 350	NNC : 17
+2829	57648	
+query index : 351	NNC : 19
+4994	69540	
+query index : 352	NNC : 16
+2173	135946	
+query index : 353	NNC : 10
+3506	81558	
+query index : 354	NNC : 10
+882	154667	
+query index : 355	NNC : 10
+472	119576	
+query index : 356	NNC : 12
+454	142350	
+query index : 357	NNC : 10
+5200	67961	
+query index : 358	NNC : 21
+253	49883	
+query index : 359	NNC : 21
+188	58573	
+query index : 360	NNC : 15
+151	70978	
+query index : 361	NNC : 33
+7325	24971	
+query index : 362	NNC : 12
+9597	96732	
+query index : 363	NNC : 19
+1326	100961	
+query index : 364	NNC : 27
+5710	112968	
+query index : 365	NNC : 11
+6143	94263	
+query index : 366	NNC : 11
+4053	57411	
+query index : 367	NNC : 12
+9638	59048	
+query index : 368	NNC : 17
+8725	78726	
+query index : 369	NNC : 13
+4913	58539	
+query index : 370	NNC : 16
+7814	73872	
+query index : 371	NNC : 13
+555	66656	
+query index : 372	NNC : 14
+3729	50875	
+query index : 373	NNC : 21
+4580	72516	
+query index : 374	NNC : 17
+1909	147177	
+query index : 375	NNC : 10
+85	101760	
+query index : 376	NNC : 12
+4424	105248	
+query index : 377	NNC : 55
+6510	53446	
+query index : 378	NNC : 36
+1767	75983	
+query index : 379	NNC : 11
+2792	70859	
+query index : 380	NNC : 12
+4622	89078	
+query index : 381	NNC : 12
+7610	123049	
+query index : 382	NNC : 17
+7833	103263	
+query index : 383	NNC : 11
+9379	102693	
+query index : 384	NNC : 18
+6832	92582	
+query index : 385	NNC : 16
+4385	107958	
+query index : 386	NNC : 11
+7625	77361	
+query index : 387	NNC : 10
+3417	62693	
+query index : 388	NNC : 11
+2431	132392	
+query index : 389	NNC : 24
+2904	49386	
+query index : 390	NNC : 14
+1217	79664	
+query index : 391	NNC : 18
+2146	71309	
+query index : 392	NNC : 18
+7492	96604	
+query index : 393	NNC : 10
+3158	96981	
+query index : 394	NNC : 10
+5763	83838	
+query index : 395	NNC : 14
+8088	69079	
+query index : 396	NNC : 12
+8163	98952	
+query index : 397	NNC : 18
+985	144859	
+query index : 398	NNC : 10
+1324	69447	
+query index : 399	NNC : 12
+2104	115403	
+query index : 400	NNC : 10
+6376	129952	
+query index : 401	NNC : 10
+9368	114327	
+query index : 402	NNC : 12
+1386	123441	
+query index : 403	NNC : 24
+1981	95472	
+query index : 404	NNC : 14
+5134	97024	
+query index : 405	NNC : 13
+302	98806	
+query index : 406	NNC : 14
+5140	87233	
+query index : 407	NNC : 14
+6723	95321	
+query index : 408	NNC : 16
+252	101075	
+query index : 409	NNC : 21
+450	137183	
+query index : 410	NNC : 21
+4951	115946	
+query index : 411	NNC : 16
+2726	145252	
+query index : 412	NNC : 12
+960	68196	
+query index : 413	NNC : 19
+6034	34766	
+query index : 414	NNC : 15
+2164	58323	
+query index : 415	NNC : 11
+3889	151028	
+query index : 416	NNC : 18
+3057	88625	
+query index : 417	NNC : 18
+9608	70457	
+query index : 418	NNC : 11
+6826	44243	
+query index : 419	NNC : 37
+6242	53201	
+query index : 420	NNC : 10
+6258	102465	
+query index : 421	NNC : 10
+5153	75651	
+query index : 422	NNC : 64
+8840	28718	
+query index : 423	NNC : 17
+9161	114909	
+query index : 424	NNC : 15
+946	82305	
+query index : 425	NNC : 33
+7328	11833	
+query index : 426	NNC : 19
+1073	102511	
+query index : 427	NNC : 11
+8501	112444	
+query index : 428	NNC : 11
+1214	90783	
+query index : 429	NNC : 11
+2992	101687	
+query index : 430	NNC : 19
+7142	74236	
+query index : 431	NNC : 13
+5713	113466	
+query index : 432	NNC : 12
+9871	118101	
+query index : 433	NNC : 15
+6492	40124	
+query index : 434	NNC : 43
+4035	5322	
+query index : 435	NNC : 10
+7483	112490	
+query index : 436	NNC : 14
+8347	17586	
+query index : 437	NNC : 12
+7635	113623	
+query index : 438	NNC : 10
+4136	105595	
+query index : 439	NNC : 12
+4317	133846	
+query index : 440	NNC : 14
+4937	126000	
+query index : 441	NNC : 17
+188	43288	
+query index : 442	NNC : 12
+3203	61957	
+query index : 443	NNC : 14
+3695	110124	
+query index : 444	NNC : 15
+9464	89504	
+query index : 445	NNC : 14
+9408	84183	
+query index : 446	NNC : 20
+6726	90214	
+query index : 447	NNC : 54
+8840	64439	
+query index : 448	NNC : 11
+8231	112436	
+query index : 449	NNC : 14
+2291	76489	
+query index : 450	NNC : 13
+4022	66834	
+query index : 451	NNC : 16
+2468	121012	
+query index : 452	NNC : 18
+159	97197	
+query index : 453	NNC : 25
+8545	57167	
+query index : 454	NNC : 17
+1841	113903	
+query index : 455	NNC : 16
+7130	102706	
+query index : 456	NNC : 11
+8264	84331	
+query index : 457	NNC : 14
+863	132531	
+query index : 458	NNC : 46
+8374	24008	
+query index : 459	NNC : 10
+612	117122	
+query index : 460	NNC : 19
+2753	98661	
+query index : 461	NNC : 11
+8954	96536	
+query index : 462	NNC : 12
+2611	93079	
+query index : 463	NNC : 26
+4979	115749	
+query index : 464	NNC : 17
+7142	68655	
+query index : 465	NNC : 13
+942	99950	
+query index : 466	NNC : 19
+1414	163611	
+query index : 467	NNC : 29
+3773	80460	
+query index : 468	NNC : 19
+8838	79970	
+query index : 469	NNC : 14
+6268	108832	
+query index : 470	NNC : 11
+4447	89691	
+query index : 471	NNC : 15
+8210	123404	
+query index : 472	NNC : 11
+1236	115227	
+query index : 473	NNC : 33
+6555	37492	
+query index : 474	NNC : 18
+2599	94196	
+query index : 475	NNC : 14
+5881	106329	
+query index : 476	NNC : 11
+6635	111777	
+query index : 477	NNC : 10
+5167	104861	
+query index : 478	NNC : 15
+4930	76573	
+query index : 479	NNC : 16
+576	94984	
+query index : 480	NNC : 21
+6812	75397	
+query index : 481	NNC : 18
+4850	101026	
+query index : 482	NNC : 24
+298	65990	
+query index : 483	NNC : 45
+3009	74358	
+query index : 484	NNC : 26
+7034	15657	
+query index : 485	NNC : 24
+3841	93854	
+query index : 486	NNC : 47
+6259	66005	
+query index : 487	NNC : 12
+5255	68975	
+query index : 488	NNC : 14
+1694	96331	
+query index : 489	NNC : 12
+5510	93015	
+query index : 490	NNC : 17
+7952	122750	
+query index : 491	NNC : 19
+1155	118340	
+query index : 492	NNC : 17
+316	36047	
+query index : 493	NNC : 14
+8411	24626	
+query index : 494	NNC : 34
+2713	83984	
+query index : 495	NNC : 10
+5327	65807	
+query index : 496	NNC : 17
+8734	122592	
+query index : 497	NNC : 12
+3153	57292	
+query index : 498	NNC : 12
+605	85854	
+query index : 499	NNC : 14
+3795	106926	
+query index : 500	NNC : 15
+302	76620	
+query index : 501	NNC : 12
+9404	115852	
+query index : 502	NNC : 11
+6331	68602	
+query index : 503	NNC : 29
+4487	73481	
+query index : 504	NNC : 16
+3465	77591	
+query index : 505	NNC : 24
+9549	47538	
+query index : 506	NNC : 12
+8245	125355	
+query index : 507	NNC : 19
+8509	50530	
+query index : 508	NNC : 13
+4819	91864	
+query index : 509	NNC : 10
+9441	84137	
+query index : 510	NNC : 10
+1450	74376	
+query index : 511	NNC : 11
+2290	116377	
+query index : 512	NNC : 16
+4989	78599	
+query index : 513	NNC : 11
+8049	137369	
+query index : 514	NNC : 13
+7727	97169	
+query index : 515	NNC : 13
+4497	72677	
+query index : 516	NNC : 37
+4007	45779	
+query index : 517	NNC : 10
+2547	116971	
+query index : 518	NNC : 10
+724	105669	
+query index : 519	NNC : 13
+770	103010	
+query index : 520	NNC : 16
+4092	55368	
+query index : 521	NNC : 17
+275	123772	
+query index : 522	NNC : 10
+8101	56778	
+query index : 523	NNC : 16
+5422	92331	
+query index : 524	NNC : 16
+1550	134215	
+query index : 525	NNC : 28
+4178	125712	
+query index : 526	NNC : 12
+6632	99930	
+query index : 527	NNC : 13
+5659	81219	
+query index : 528	NNC : 11
+9593	99255	
+query index : 529	NNC : 17
+5576	87880	
+query index : 530	NNC : 15
+8350	87993	
+query index : 531	NNC : 12
+8632	74689	
+query index : 532	NNC : 11
+2557	133067	
+query index : 533	NNC : 10
+693	106032	
+query index : 534	NNC : 12
+3043	81066	
+query index : 535	NNC : 17
+4001	9706	
+query index : 536	NNC : 23
+8414	55729	
+query index : 537	NNC : 12
+6957	89908	
+query index : 538	NNC : 14
+1425	121636	
+query index : 539	NNC : 17
+2325	59188	
+query index : 540	NNC : 12
+4847	80851	
+query index : 541	NNC : 14
+8099	91925	
+query index : 542	NNC : 24
+4457	88014	
+query index : 543	NNC : 12
+6391	73239	
+query index : 544	NNC : 13
+9858	92396	
+query index : 545	NNC : 11
+1965	68157	
+query index : 546	NNC : 11
+5634	97350	
+query index : 547	NNC : 30
+7395	76325	
+query index : 548	NNC : 13
+1859	45823	
+query index : 549	NNC : 11
+6685	105199	
+query index : 550	NNC : 12
+5344	85635	
+query index : 551	NNC : 11
+785	87266	
+query index : 552	NNC : 12
+9959	92154	
+query index : 553	NNC : 11
+824	117903	
+query index : 554	NNC : 15
+3967	89348	
+query index : 555	NNC : 10
+1019	133039	
+query index : 556	NNC : 15
+6650	94877	
+query index : 557	NNC : 19
+559	129780	
+query index : 558	NNC : 14
+8630	98562	
+query index : 559	NNC : 12
+7006	80706	
+query index : 560	NNC : 16
+9895	121317	
+query index : 561	NNC : 11
+390	116770	
+query index : 562	NNC : 22
+7378	132789	
+query index : 563	NNC : 10
+3302	142905	
+query index : 564	NNC : 58
+6988	29018	
+query index : 565	NNC : 16
+8208	98302	
+query index : 566	NNC : 15
+8669	62681	
+query index : 567	NNC : 10
+5029	117102	
+query index : 568	NNC : 12
+723	132651	
+query index : 569	NNC : 23
+9439	61680	
+query index : 570	NNC : 14
+9414	98762	
+query index : 571	NNC : 28
+9874	97455	
+query index : 572	NNC : 10
+7037	64847	
+query index : 573	NNC : 17
+5264	105147	
+query index : 574	NNC : 13
+6294	117295	
+query index : 575	NNC : 18
+4946	84294	
+query index : 576	NNC : 16
+5779	87967	
+query index : 577	NNC : 14
+9375	100458	
+query index : 578	NNC : 27
+8387	73166	
+query index : 579	NNC : 16
+8495	116631	
+query index : 580	NNC : 14
+2041	109306	
+query index : 581	NNC : 13
+4154	92775	
+query index : 582	NNC : 16
+7925	92972	
+query index : 583	NNC : 12
+8377	108476	
+query index : 584	NNC : 10
+7104	56763	
+query index : 585	NNC : 10
+399	115794	
+query index : 586	NNC : 15
+5394	89458	
+query index : 587	NNC : 10
+831	92782	
+query index : 588	NNC : 16
+6337	89307	
+query index : 589	NNC : 10
+7015	61938	
+query index : 590	NNC : 16
+8679	134085	
+query index : 591	NNC : 11
+7282	111901	
+query index : 592	NNC : 10
+4088	89732	
+query index : 593	NNC : 14
+9701	66410	
+query index : 594	NNC : 11
+1429	106648	
+query index : 595	NNC : 42
+3450	4793	
+query index : 596	NNC : 25
+1339	110330	
+query index : 597	NNC : 19
+6505	79598	
+query index : 598	NNC : 21
+4479	82229	
+query index : 599	NNC : 14
+749	35466	
+query index : 600	NNC : 10
+9453	102062	
+query index : 601	NNC : 11
+8435	17957	
+query index : 602	NNC : 15
+4593	69017	
+query index : 603	NNC : 11
+894	72944	
+query index : 604	NNC : 12
+3443	80205	
+query index : 605	NNC : 58
+7680	27151	
+query index : 606	NNC : 18
+9528	140983	
+query index : 607	NNC : 31
+6564	22085	
+query index : 608	NNC : 18
+6860	139043	
+query index : 609	NNC : 33
+2062	97984	
+query index : 610	NNC : 10
+8617	121396	
+query index : 611	NNC : 11
+1650	81617	
+query index : 612	NNC : 13
+548	127128	
+query index : 613	NNC : 10
+5571	86995	
+query index : 614	NNC : 13
+9177	110566	
+query index : 615	NNC : 21
+5807	69355	
+query index : 616	NNC : 14
+7125	138759	
+query index : 617	NNC : 51
+4744	37334	
+query index : 618	NNC : 11
+4697	114599	
+query index : 619	NNC : 10
+9491	78951	
+query index : 620	NNC : 13
+7017	101941	
+query index : 621	NNC : 17
+3015	45621	
+query index : 622	NNC : 11
+8750	130351	
+query index : 623	NNC : 11
+481	101003	
+query index : 624	NNC : 21
+1265	75210	
+query index : 625	NNC : 17
+9398	106592	
+query index : 626	NNC : 18
+3654	124711	
+query index : 627	NNC : 14
+8555	95688	
+query index : 628	NNC : 13
+5592	98859	
+query index : 629	NNC : 16
+3349	80411	
+query index : 630	NNC : 10
+9177	148203	
+query index : 631	NNC : 12
+6612	124610	
+query index : 632	NNC : 11
+34	130593	
+query index : 633	NNC : 30
+607	131446	
+query index : 634	NNC : 11
+4646	89042	
+query index : 635	NNC : 11
+6391	114826	
+query index : 636	NNC : 17
+3373	95674	
+query index : 637	NNC : 19
+308	69430	
+query index : 638	NNC : 21
+3509	139807	
+query index : 639	NNC : 33
+2428	92745	
+query index : 640	NNC : 15
+3570	46075	
+query index : 641	NNC : 11
+8834	140890	
+query index : 642	NNC : 22
+2078	101212	
+query index : 643	NNC : 22
+7980	90508	
+query index : 644	NNC : 11
+8664	46420	
+query index : 645	NNC : 10
+8396	45644	
+query index : 646	NNC : 10
+2563	4512	
+query index : 647	NNC : 13
+7237	124983	
+query index : 648	NNC : 23
+7084	30360	
+query index : 649	NNC : 14
+5927	107757	
+query index : 650	NNC : 22
+6747	87828	
+query index : 651	NNC : 17
+114	122463	
+query index : 652	NNC : 10
+8436	118388	
+query index : 653	NNC : 18
+6722	126311	
+query index : 654	NNC : 18
+4760	133719	
+query index : 655	NNC : 25
+7975	125112	
+query index : 656	NNC : 12
+7524	90190	
+query index : 657	NNC : 37
+2976	116329	
+query index : 658	NNC : 10
+9665	121272	
+query index : 659	NNC : 10
+5341	103327	
+query index : 660	NNC : 21
+8039	37085	
+query index : 661	NNC : 14
+9749	141594	
+query index : 662	NNC : 13
+115	89534	
+query index : 663	NNC : 12
+2758	108084	
+query index : 664	NNC : 29
+814	134393	
+query index : 665	NNC : 11
+8435	14918	
+query index : 666	NNC : 40
+5760	36818	
+query index : 667	NNC : 10
+3079	63613	
+query index : 668	NNC : 22
+8221	110139	
+query index : 669	NNC : 18
+9497	116081	
+query index : 670	NNC : 17
+6813	113108	
+query index : 671	NNC : 16
+4925	53112	
+query index : 672	NNC : 13
+2104	94790	
+query index : 673	NNC : 14
+4222	93625	
+query index : 674	NNC : 17
+5697	121789	
+query index : 675	NNC : 10
+2431	109443	
+query index : 676	NNC : 13
+3557	82045	
+query index : 677	NNC : 10
+2515	161008	
+query index : 678	NNC : 12
+9120	18878	
+query index : 679	NNC : 35
+7849	137239	
+query index : 680	NNC : 15
+1398	49585	
+query index : 681	NNC : 15
+5720	99483	
+query index : 682	NNC : 26
+8250	104323	
+query index : 683	NNC : 12
+9594	58272	
+query index : 684	NNC : 10
+2588	99205	
+query index : 685	NNC : 31
+3458	96858	
+query index : 686	NNC : 12
+8210	136767	
+query index : 687	NNC : 17
+8044	68555	
+query index : 688	NNC : 35
+9047	77452	
+query index : 689	NNC : 43
+9122	12401	
+query index : 690	NNC : 10
+3718	110477	
+query index : 691	NNC : 42
+5502	66035	
+query index : 692	NNC : 16
+3751	105620	
+query index : 693	NNC : 11
+7167	32829	
+query index : 694	NNC : 37
+3358	62885	
+query index : 695	NNC : 43
+4086	18298	
+query index : 696	NNC : 10
+2250	110979	
+query index : 697	NNC : 45
+238	76294	
+query index : 698	NNC : 18
+2312	93770	
+query index : 699	NNC : 14
+1528	120590	
+query index : 700	NNC : 13
+6014	116038	
+query index : 701	NNC : 12
+1537	104467	
+query index : 702	NNC : 20
+9328	133005	
+query index : 703	NNC : 17
+9093	14957	
+query index : 704	NNC : 10
+8885	107243	
+query index : 705	NNC : 16
+9972	135471	
+query index : 706	NNC : 21
+1186	112799	
+query index : 707	NNC : 25
+2563	84072	
+query index : 708	NNC : 14
+5532	68277	
+query index : 709	NNC : 15
+8401	62713	
+query index : 710	NNC : 10
+761	158643	
+query index : 711	NNC : 10
+4146	123206	
+query index : 712	NNC : 11
+2561	58399	
+query index : 713	NNC : 15
+2458	22954	
+query index : 714	NNC : 19
+175	114459	
+query index : 715	NNC : 22
+4702	63413	
+query index : 716	NNC : 12
+7302	60693	
+query index : 717	NNC : 11
+5971	87089	
+query index : 718	NNC : 11
+9089	116462	
+query index : 719	NNC : 10
+779	158486	
+query index : 720	NNC : 10
+347	91187	
+query index : 721	NNC : 31
+3288	97720	
+query index : 722	NNC : 11
+4204	132123	
+query index : 723	NNC : 15
+7332	90220	
+query index : 724	NNC : 14
+3798	122238	
+query index : 725	NNC : 10
+4633	126672	
+query index : 726	NNC : 14
+7528	92224	
+query index : 727	NNC : 13
+2709	127315	
+query index : 728	NNC : 12
+2239	117147	
+query index : 729	NNC : 19
+5292	74736	
+query index : 730	NNC : 15
+2267	104028	
+query index : 731	NNC : 13
+1899	85105	
+query index : 732	NNC : 24
+1582	89370	
+query index : 733	NNC : 13
+2285	135012	
+query index : 734	NNC : 15
+2353	24441	
+query index : 735	NNC : 17
+1684	98829	
+query index : 736	NNC : 12
+1804	100575	
+query index : 737	NNC : 10
+2193	128872	
+query index : 738	NNC : 11
+6225	43068	
+query index : 739	NNC : 22
+3869	130035	
+query index : 740	NNC : 18
+7412	31775	
+query index : 741	NNC : 12
+45	84530	
+query index : 742	NNC : 13
+7526	158168	
+query index : 743	NNC : 13
+3627	87795	
+query index : 744	NNC : 10
+3410	48440	
+query index : 745	NNC : 15
+4198	135825	
+query index : 746	NNC : 10
+2848	91112	
+query index : 747	NNC : 11
+8387	65584	
+query index : 748	NNC : 13
+7922	111595	
+query index : 749	NNC : 21
+6625	10143	
+query index : 750	NNC : 21
+3012	55710	
+query index : 751	NNC : 33
+3058	58118	
+query index : 752	NNC : 36
+3450	3895	
+query index : 753	NNC : 15
+4316	128908	
+query index : 754	NNC : 23
+2879	55500	
+query index : 755	NNC : 15
+7955	144288	
+query index : 756	NNC : 15
+711	86633	
+query index : 757	NNC : 13
+3139	147109	
+query index : 758	NNC : 11
+7206	28733	
+query index : 759	NNC : 10
+6384	148149	
+query index : 760	NNC : 24
+4762	103358	
+query index : 761	NNC : 18
+8075	124405	
+query index : 762	NNC : 19
+300	97045	
+query index : 763	NNC : 18
+5627	111974	
+query index : 764	NNC : 12
+3810	146368	
+query index : 765	NNC : 11
+8214	118679	
+query index : 766	NNC : 32
+8008	62904	
+query index : 767	NNC : 14
+4321	101111	
+query index : 768	NNC : 13
+443	89893	
+query index : 769	NNC : 10
+5946	93306	
+query index : 770	NNC : 13
+9374	115512	
+query index : 771	NNC : 16
+1148	119927	
+query index : 772	NNC : 11
+8143	84196	
+query index : 773	NNC : 14
+5318	124803	
+query index : 774	NNC : 14
+4029	125416	
+query index : 775	NNC : 47
+4065	75032	
+query index : 776	NNC : 18
+2147	106881	
+query index : 777	NNC : 58
+7695	23416	
+query index : 778	NNC : 17
+4699	86784	
+query index : 779	NNC : 15
+339	68098	
+query index : 780	NNC : 15
+9871	118992	
+query index : 781	NNC : 11
+5371	103866	
+query index : 782	NNC : 13
+2931	83770	
+query index : 783	NNC : 11
+2209	146553	
+query index : 784	NNC : 14
+5477	44957	
+query index : 785	NNC : 10
+3627	72291	
+query index : 786	NNC : 10
+9237	59881	
+query index : 787	NNC : 24
+7683	141667	
+query index : 788	NNC : 16
+6662	56288	
+query index : 789	NNC : 22
+1642	96856	
+query index : 790	NNC : 13
+746	107180	
+query index : 791	NNC : 35
+6672	38439	
+query index : 792	NNC : 14
+7945	89439	
+query index : 793	NNC : 23
+1459	98081	
+query index : 794	NNC : 11
+9809	93432	
+query index : 795	NNC : 11
+4964	92325	
+query index : 796	NNC : 11
+5808	107569	
+query index : 797	NNC : 20
+920	115251	
+query index : 798	NNC : 13
+2480	117428	
+query index : 799	NNC : 17
+1825	112956	
+query index : 800	NNC : 11
+171	110507	
+query index : 801	NNC : 11
+8197	103601	
+query index : 802	NNC : 20
+8012	74774	
+query index : 803	NNC : 14
+4440	84180	
+query index : 804	NNC : 10
+7528	93930	
+query index : 805	NNC : 12
+9616	82837	
+query index : 806	NNC : 11
+8259	105083	
+query index : 807	NNC : 15
+7898	101197	
+query index : 808	NNC : 18
+6624	78538	
+query index : 809	NNC : 14
+1273	71978	
+query index : 810	NNC : 10
+5298	105297	
+query index : 811	NNC : 11
+1152	92375	
+query index : 812	NNC : 18
+5485	65868	
+query index : 813	NNC : 18
+6354	88151	
+query index : 814	NNC : 14
+7471	119808	
+query index : 815	NNC : 29
+1987	26544	
+query index : 816	NNC : 21
+3831	54355	
+query index : 817	NNC : 11
+591	119132	
+query index : 818	NNC : 12
+5961	106586	
+query index : 819	NNC : 11
+8986	129906	
+query index : 820	NNC : 17
+5649	91060	
+query index : 821	NNC : 12
+9239	111516	
+query index : 822	NNC : 11
+2189	76513	
+query index : 823	NNC : 15
+6428	44594	
+query index : 824	NNC : 14
+8679	145244	
+query index : 825	NNC : 14
+1493	102462	
+query index : 826	NNC : 16
+2674	91185	
+query index : 827	NNC : 27
+2032	83573	
+query index : 828	NNC : 12
+918	64752	
+query index : 829	NNC : 50
+3008	67422	
+query index : 830	NNC : 10
+2702	102703	
+query index : 831	NNC : 14
+1660	133183	
+query index : 832	NNC : 16
+1842	80140	
+query index : 833	NNC : 14
+1720	94680	
+query index : 834	NNC : 10
+8540	91792	
+query index : 835	NNC : 13
+9239	88887	
+query index : 836	NNC : 24
+1628	84471	
+query index : 837	NNC : 10
+4043	93470	
+query index : 838	NNC : 15
+6793	112023	
+query index : 839	NNC : 21
+350	52784	
+query index : 840	NNC : 12
+2852	78955	
+query index : 841	NNC : 20
+9515	92965	
+query index : 842	NNC : 10
+9418	105079	
+query index : 843	NNC : 16
+219	131222	
+query index : 844	NNC : 16
+910	126046	
+query index : 845	NNC : 12
+2152	66792	
+query index : 846	NNC : 33
+7328	7352	
+query index : 847	NNC : 13
+1885	101402	
+query index : 848	NNC : 19
+476	47208	
+query index : 849	NNC : 13
+1921	27456	
+query index : 850	NNC : 33
+7328	8604	
+query index : 851	NNC : 12
+786	117902	
+query index : 852	NNC : 12
+3853	110875	
+query index : 853	NNC : 11
+612	74542	
+query index : 854	NNC : 12
+8997	76967	
+query index : 855	NNC : 16
+5435	123030	
+query index : 856	NNC : 14
+7798	104341	
+query index : 857	NNC : 14
+9203	137759	
+query index : 858	NNC : 17
+231	74884	
+query index : 859	NNC : 19
+1558	107195	
+query index : 860	NNC : 17
+4165	113132	
+query index : 861	NNC : 12
+9524	128933	
+query index : 862	NNC : 11
+7673	76344	
+query index : 863	NNC : 13
+1328	71877	
+query index : 864	NNC : 26
+324	107028	
+query index : 865	NNC : 11
+8459	112322	
+query index : 866	NNC : 17
+7755	96790	
+query index : 867	NNC : 10
+3553	91453	
+query index : 868	NNC : 11
+8731	93217	
+query index : 869	NNC : 15
+122	126771	
+query index : 870	NNC : 14
+2172	85881	
+query index : 871	NNC : 10
+1212	94090	
+query index : 872	NNC : 25
+328	99785	
+query index : 873	NNC : 14
+3066	90689	
+query index : 874	NNC : 11
+4574	107564	
+query index : 875	NNC : 39
+6990	57400	
+query index : 876	NNC : 13
+305	105505	
+query index : 877	NNC : 16
+9013	105911	
+query index : 878	NNC : 11
+4380	108780	
+query index : 879	NNC : 13
+4968	62494	
+query index : 880	NNC : 10
+3027	119946	
+query index : 881	NNC : 33
+6816	30136	
+query index : 882	NNC : 18
+3150	137422	
+query index : 883	NNC : 16
+6564	41297	
+query index : 884	NNC : 10
+121	96925	
+query index : 885	NNC : 17
+4689	79648	
+query index : 886	NNC : 10
+1552	96710	
+query index : 887	NNC : 12
+4941	93871	
+query index : 888	NNC : 31
+2770	97394	
+query index : 889	NNC : 11
+1937	126361	
+query index : 890	NNC : 14
+6571	37240	
+query index : 891	NNC : 11
+8210	115668	
+query index : 892	NNC : 14
+9126	90957	
+query index : 893	NNC : 66
+9474	25289	
+query index : 894	NNC : 11
+1026	95270	
+query index : 895	NNC : 17
+4054	70435	
+query index : 896	NNC : 18
+5636	48853	
+query index : 897	NNC : 21
+6601	82241	
+query index : 898	NNC : 11
+4076	102391	
+query index : 899	NNC : 11
+3296	116718	
+query index : 900	NNC : 19
+5174	81169	
+query index : 901	NNC : 11
+3433	139675	
+query index : 902	NNC : 65
+5585	58588	
+query index : 903	NNC : 15
+6155	107294	
+query index : 904	NNC : 14
+4063	83864	
+query index : 905	NNC : 13
+3345	70232	
+query index : 906	NNC : 18
+3739	98011	
+query index : 907	NNC : 27
+7047	79196	
+query index : 908	NNC : 33
+2684	43408	
+query index : 909	NNC : 11
+9484	131933	
+query index : 910	NNC : 27
+8335	131745	
+query index : 911	NNC : 13
+1153	153707	
+query index : 912	NNC : 16
+3064	61185	
+query index : 913	NNC : 17
+8342	93956	
+query index : 914	NNC : 20
+6606	63485	
+query index : 915	NNC : 15
+1649	66786	
+query index : 916	NNC : 10
+5693	72236	
+query index : 917	NNC : 16
+9170	124951	
+query index : 918	NNC : 12
+3852	129801	
+query index : 919	NNC : 12
+4536	94333	
+query index : 920	NNC : 29
+8737	67086	
+query index : 921	NNC : 15
+614	103225	
+query index : 922	NNC : 16
+9769	39259	
+query index : 923	NNC : 12
+4934	69967	
+query index : 924	NNC : 16
+4771	87991	
+query index : 925	NNC : 16
+6743	24104	
+query index : 926	NNC : 12
+2324	70169	
+query index : 927	NNC : 26
+7980	124510	
+query index : 928	NNC : 21
+8293	102408	
+query index : 929	NNC : 17
+1722	144861	
+query index : 930	NNC : 47
+4454	98369	
+query index : 931	NNC : 10
+9748	78140	
+query index : 932	NNC : 10
+7273	117883	
+query index : 933	NNC : 10
+5659	106043	
+query index : 934	NNC : 10
+5842	127858	
+query index : 935	NNC : 24
+8328	92059	
+query index : 936	NNC : 14
+8896	35753	
+query index : 937	NNC : 10
+8160	125999	
+query index : 938	NNC : 26
+337	74149	
+query index : 939	NNC : 16
+9981	85577	
+query index : 940	NNC : 10
+9527	126299	
+query index : 941	NNC : 14
+4543	102343	
+query index : 942	NNC : 21
+9638	108619	
+query index : 943	NNC : 14
+1129	62358	
+query index : 944	NNC : 26
+6031	59782	
+query index : 945	NNC : 14
+8502	126008	
+query index : 946	NNC : 10
+1384	52145	
+query index : 947	NNC : 11
+3100	96147	
+query index : 948	NNC : 16
+9891	99805	
+query index : 949	NNC : 28
+7860	84609	
+query index : 950	NNC : 20
+2247	52931	
+query index : 951	NNC : 13
+6054	107786	
+query index : 952	NNC : 13
+3927	106903	
+query index : 953	NNC : 14
+4377	98928	
+query index : 954	NNC : 17
+6423	114232	
+query index : 955	NNC : 11
+7062	89999	
+query index : 956	NNC : 17
+5205	104780	
+query index : 957	NNC : 10
+3957	59092	
+query index : 958	NNC : 17
+8250	116302	
+query index : 959	NNC : 24
+69	117458	
+query index : 960	NNC : 14
+4042	89290	
+query index : 961	NNC : 10
+5573	84394	
+query index : 962	NNC : 14
+4255	96136	
+query index : 963	NNC : 11
+9177	111849	
+query index : 964	NNC : 18
+2440	134344	
+query index : 965	NNC : 12
+4994	67246	
+query index : 966	NNC : 11
+4888	146870	
+query index : 967	NNC : 17
+7697	82840	
+query index : 968	NNC : 10
+5416	88538	
+query index : 969	NNC : 48
+9086	80973	
+query index : 970	NNC : 23
+595	95523	
+query index : 971	NNC : 13
+7933	140603	
+query index : 972	NNC : 13
+2165	63688	
+query index : 973	NNC : 10
+300	76350	
+query index : 974	NNC : 11
+3215	122661	
+query index : 975	NNC : 27
+2561	66309	
+query index : 976	NNC : 21
+3417	29734	
+query index : 977	NNC : 18
+4015	109045	
+query index : 978	NNC : 10
+2248	95277	
+query index : 979	NNC : 16
+6020	72655	
+query index : 980	NNC : 14
+1143	163501	
+query index : 981	NNC : 13
+9246	123275	
+query index : 982	NNC : 19
+8646	32112	
+query index : 983	NNC : 11
+736	114186	
+query index : 984	NNC : 11
+8034	29433	
+query index : 985	NNC : 16
+6061	87989	
+query index : 986	NNC : 16
+1977	109261	
+query index : 987	NNC : 40
+7334	70572	
+query index : 988	NNC : 10
+8142	140048	
+query index : 989	NNC : 12
+3948	64850	
+query index : 990	NNC : 14
+5331	124544	
+query index : 991	NNC : 24
+2600	112315	
+query index : 992	NNC : 12
+9664	116310	
+query index : 993	NNC : 18
+3125	108445	
+query index : 994	NNC : 14
+4043	86617	
+query index : 995	NNC : 12
+8250	137794	
+query index : 996	NNC : 15
+1355	87295	
+query index : 997	NNC : 10
+7975	105984	
+query index : 998	NNC : 12
+2	88281	
+query index : 999	NNC : 13
+8909	139093	
