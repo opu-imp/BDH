@@ -1,5 +1,5 @@
-# bdh_iccv_2013
-This is a reimprementation of the approximate nearest neighbor method persented in ICCV2013. This is slightly faster than the original implementation.
+# Backet Distance Hashing (BDH)
+This is a reimprementation of the approximate nearest neighbor method (named Backet Distance Hashing; BDH) persented in International Conference on Computer Vision (ICCV) 2013. This is slightly faster than the original implementation.
 
 Reference:
 Masakazu Iwamura, Tomokazu Sato and Koichi Kise
